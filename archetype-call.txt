@@ -1,0 +1,1 @@
+mvn archetype:generate -DarchetypeGroupId=com.example -DarchetypeArtifactId=arch-base -DarchetypeVersion=1
